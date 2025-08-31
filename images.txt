@@ -1,7 +1,4 @@
-python:3.12
-otel/opentelemetry-collector-contrib:latest
-jaegertracing/all-in-one:latest
---platform=linux/arm64
+ghcr.io/developmentseed/titiler:latest
 
 #sourcepole/bbox-server-qgis
 #支持私库
