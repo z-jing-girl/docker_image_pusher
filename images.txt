@@ -1,9 +1,4 @@
-postgres:15
-redis:7-alpine
-quay.io/coreos/etcd:v3.5.18
-minio/minio:RELEASE.2024-05-28T17-19-04Z
-milvusdb/milvus:v2.5.14
-zilliz/attu:v2.5.11
+ghcr.io/modelcontextprotocol/inspector:latest
 
 #sourcepole/bbox-server-qgis
 #支持私库
