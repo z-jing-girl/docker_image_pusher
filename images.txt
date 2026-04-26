@@ -1,4 +1,4 @@
-ghcr.io/modelcontextprotocol/inspector:latest
+nominatim-ui:latest
 
 #sourcepole/bbox-server-qgis
 #支持私库
