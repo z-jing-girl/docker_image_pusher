@@ -1,4 +1,4 @@
-mediasuitenz/docker-overpass-api:latest
+mediasuite/overpass-api
 
 #sourcepole/bbox-server-qgis
 #支持私库
