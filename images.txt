@@ -1,4 +1,4 @@
-kopacb/nominatim-ui:latest
+wiktorn/overpass-api:v0.7.56.9
 
 #sourcepole/bbox-server-qgis
 #支持私库
