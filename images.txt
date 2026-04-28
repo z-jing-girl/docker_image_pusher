@@ -1,4 +1,4 @@
-mediasuite/overpass-api
+contiamo/overpass-api:latest
 
 #sourcepole/bbox-server-qgis
 #支持私库
