@@ -1,4 +1,5 @@
-contiamo/overpass-api:latest
+ghcr.io/modelcontextprotocol/inspector:latest
+python:3.11-slim
 
 #sourcepole/bbox-server-qgis
 #支持私库
