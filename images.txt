@@ -1,4 +1,4 @@
-ghcr.io/opencode-ai/opencode:latest
+openeuler/opencode:latest
 
 #sourcepole/bbox-server-qgis
 #支持私库
