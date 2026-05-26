@@ -1,4 +1,4 @@
-python:3.12
+quay.io/coreos/etcd:v3.5.5
 
 #sourcepole/bbox-server-qgis
 #支持私库
