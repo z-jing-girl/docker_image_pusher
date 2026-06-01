@@ -1,5 +1,5 @@
-node:24-slim
-node:24-alpine
+nginx:alpine
+redis:7-alpine
 
 #sourcepole/bbox-server-qgis
 #支持私库
