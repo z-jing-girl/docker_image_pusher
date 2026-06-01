@@ -1,5 +1,5 @@
-python:3.12-slim
-
+node:24-slim
+node:24-alpine
 
 #sourcepole/bbox-server-qgis
 #支持私库
