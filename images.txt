@@ -1,4 +1,4 @@
-vllm/vllm-openai:latest-x86_64-cu129-ubuntu2404
+node:18
 
 #sourcepole/bbox-server-qgis
 #支持私库
