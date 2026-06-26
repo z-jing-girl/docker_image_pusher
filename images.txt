@@ -1,6 +1,5 @@
 ghcr.io/hkuds/lightrag:latest
 pgvector/pgvector:pg18
-milvus:v2.6.11-gpu
 
 #sourcepole/bbox-server-qgis
 #支持私库
