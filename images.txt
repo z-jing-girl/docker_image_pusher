@@ -1,4 +1,4 @@
-milvusdb/milvus:v2.6.11-gpu
+ghcr.io/nesquena/hermes-webui:latest
 
 #sourcepole/bbox-server-qgis
 #支持私库
